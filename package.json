@@ -1,10 +1,10 @@
 {
-  "name": "launchpad-mk2",
-  "version": "0.0.1",
+  "name": "launchpad-2",
+  "version": "0.0.2",
   "description": "Class with methods for interacting with the Novation Launchpad MK2",
   "author": "spencerudnick",
   "license": "MIT",
-  "repository": "spencerudnick/launchpad",
+  "repository": "spencerudnick/launchpad-mk2",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
